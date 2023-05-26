@@ -1,4 +1,8 @@
 # Post-Quantum Blockchain local deployment
+## Introduction
+
+More info on the project: [https://post-quantum-team.github.io/](https://post-quantum-team.github.io/)
+
 
 ## Pre-requisites
 - Docker
